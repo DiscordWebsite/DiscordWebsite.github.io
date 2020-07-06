@@ -1,5 +1,5 @@
 Discord.Website is a collection of micro-tools for Discord users and bot developers.  
-We are not affiliated with [DiscordApp](https://discordapp.com).  
+We are not affiliated with [DiscordApp](https://discord.com).  
 To contribute to an existing project, simply open an issue and/or create a pull request on the relevant repository.  
 To create a new project, please contact an existing organization member and/or open an issue on [this repository](https://github.com/DiscordWebsite/Discord.Website).  
 
